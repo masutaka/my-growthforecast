@@ -3,7 +3,7 @@
 ## Install
 
     $ sudo apt-get -y build-dep rrdtool
-    $ carton install
+    $ carton install --deployment
 
 ## Boot
 
