@@ -7,4 +7,4 @@
 
 ## Boot
 
-    $ carton exec growthforecast.pl --data-dir . --enable-float-number &
+    $ carton exec -- perl local/bin/growthforecast.pl --data-dir . --enable-float-number &
